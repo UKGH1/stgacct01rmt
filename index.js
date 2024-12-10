@@ -1,0 +1,1 @@
+console.log('Hey!! stgacct01rmt instance is getting created. ');
